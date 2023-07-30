@@ -1,0 +1,211 @@
+Skip to content
+adkumayangani
+/
+SE102.3-WEB-27198
+
+Type / to search
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Pane width
+Use a value between 17% and 38%
+
+21
+Change width
+Code
+Go to file
+Tute01
+Tute04
+Tute07
+Tute08
+Tute09
+Tute10
+Tute11
+Tute12
+Tute 02
+Tute03
+Documentation • Share feedback
+BreadcrumbsSE102.3-WEB-27198/Tute12
+/
+HTML
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+No wrap
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+<html>
+<head>
+<title> NSBM</title>
+</head>
+<body>
+<h3><center>aregistration Form</center></h3>
+
+<form name="g" method="post" action="regi.php">
+<table border="0px" align="center">
+<tr>
+<td>
+	First Name:
+</td><td>
+	<input type="text" name="fn">
+		<br>
+</td>
+<tr>
+<td>
+Last Name:
+</td>
+<td>
+	<input type="text" name="ln">
+		</td><br></tr>
+<tr><td>
+User Name:
+</td>
+<td>
+	<input type="text" name="un">
+		<br></td>
+	</tr>
+<tr>
+<td>
+password:
+</td>
+<td>
+	<input type="password" name="pwd">
+		<br></td>
+</tr>
+<tr><td>
+gender:
+</td><td>
+	<input type="radio" name="gen" value="f">female
+	<input type="radio" name="gen" value="M">male
+		<br></td></tr>
+<tr>
+<td>
+Academic year:
+</td>
+<td>
+<select name="chose a year">
+		<option value="F"> First year</option> 
+		<option value="	S"> Second year</option> 
+		
+	</select>
+</td>
+</tr>
+<tr>
+<td>
+Email:
+</td>
+<td>
+<input type="email" name="e-mail">
+		<br>
+</td>
+</tr>
+<tr>
+<td>
+Phone Number:
+</td>
+<td><input type="text" name="number">
+		<br>
+</td>
+	</tr><tr><td><input type="submit" name="log" value="SUBMIT "></td></tr></table>
+	
+</form>
+
+		
+</body>
+</html>
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
